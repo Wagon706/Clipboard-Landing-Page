@@ -377,3 +377,210 @@ body {
 .instagram {
   margin-left: 1.5em;
 }
+
+/**MEDIA QUERIES**/
+
+/**MOBILE VIEW**/
+
+@media (max-width: 375px) {
+  .bg-top {
+    height: 5vh;
+  }
+
+  .logo {
+    display: block;
+    margin-left: 2.5vh;
+    margin-top: -3vh;
+  }
+
+  #ios {
+    margin-left: 0.5vh;
+    width: 5.5vh;
+  }
+
+  #mac {
+    margin-left: 0.5vh;
+    width: 5.5vh;
+  }
+
+  .h2-text {
+    font-size: 17.2px;
+  }
+
+  .computer {
+    margin-top: 1vh;
+    width: 6vh;
+    margin-left: 2em;
+  }
+
+  .quicksrc {
+    margin-left: 1.9vh;
+    margin-top: 1vh;
+  }
+
+  .quicksrc-text {
+    margin-left: -0.8vh;
+    margin-top: -0.5vh;
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .icloud {
+    margin-left: 2vh;
+    margin-top: -0.5vh;
+  }
+
+  .icloud-text {
+    margin-left: -0.8vh;
+    margin-top: -0.5vh;
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .history {
+    margin-left: 1.5vh;
+    margin-top: -0.5vh;
+  }
+
+  .history-text {
+    margin-left: -0.8vh;
+    margin-top: -0.5vh;
+    font-size: 15px;
+    text-align: center;
+  }
+  .clipboard {
+    margin-top: 5vh;
+  }
+
+  .devices {
+    margin-top: 1vh;
+    margin-left: 0.2vh;
+    width: 7vh;
+  }
+
+  .supercharge {
+    margin-top: 2vh;
+  }
+
+  .blacklist-icon {
+    margin-top: 1.5vh;
+    margin-left: 2.9vh;
+  }
+
+  .blacklist {
+    margin-top: 1vh;
+    margin-left: 1.6vh;
+  }
+
+  .blacklist-text {
+    margin-left: -0.1vh;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .snippets-icon {
+    margin-top: 1.5vh;
+    margin-left: 3vh;
+  }
+
+  .snippets {
+    margin-top: 1vh;
+  }
+
+  .snippets-text {
+    margin-left: -0.1vh;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .preview-icon {
+    margin-top: 1.5vh;
+    margin-left: 2.8vh;
+  }
+
+  .preview {
+    margin-top: 1vh;
+    margin-left: -0.2vh;
+  }
+
+  .preview-text {
+    margin-left: -0.1vh;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .google-logo {
+    margin-left: 2vh;
+  }
+
+  .ibm-logo {
+    margin-left: 2.4vh;
+  }
+
+  .hp-logo {
+    margin-left: 2.5vh;
+  }
+
+  .vg-logo {
+    margin-left: 2.5vh;
+  }
+
+  .clipboard-text {
+    font-size: 16px;
+  }
+
+  .twitter {
+    display: block;
+    margin-top: -2vh;
+  }
+
+  .footer-logo {
+    margin-left: 2.8vh;
+    height: 1vh;
+    width: 1vh;
+  }
+
+  .FAQ {
+    margin-left: 2.9vh;
+    margin-top: 0.8vh;
+  }
+
+  .contact {
+    margin-left: 2.4vh;
+  }
+
+  .privacy {
+    margin-left: 2.2vh;
+    margin-top: 0.4vh;
+  }
+
+  .presskit {
+    margin-left: 2.6vh;
+  }
+
+  .guide {
+    margin-left: 2.3vh;
+    margin-top: 0.4vh;
+  }
+
+  .facebook {
+    display: block;
+    margin-top: 1vh;
+    margin-left: 1.7vh;
+  }
+
+  .twitter {
+    display: block;
+    margin-top: -0.5vh;
+    margin-left: 3vh;
+  }
+
+  .instagram {
+    display: block;
+    margin-top: -0.5vh;
+    margin-left: 4.3vh;
+  }
+  #footer {
+    height: 10vh;
+  }
+}
